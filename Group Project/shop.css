@@ -1,5 +1,71 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 40px;
+  background-color: white;
+  border-bottom: 1px solid #eee;
+}
+
+.logo {
+  height: 80px;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+nav div {
+  cursor: pointer;
+}
+
+.category-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 40px 0;
+}
+
+.category {
+  width: 120px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.category img {
+  width: 40px;
+  height: 40px;
+}
+
+.category p {
+  margin-top: 10px;
+  color: #f5641d;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+
+.footer {
+  border-top: 2px solid #f5641d;
+  padding: 30px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer input[type="radio"] {
+  margin-right: 10px;
 }
