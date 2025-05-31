@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img13{
+    width: 1800px;
+    height: 670px;
+}
+
+.img0{
+    position: relative;
+    bottom: 680px;
+}
+
+.header1 {
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}
+
+.header1 a {
+    color: white;
+    text-decoration: none;
+    font-family: inherit;
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.book{
+    position: relative;
+    left: 400px;
+    bottom: 90px;
+}
+
+h2{
+    color: #652D90;
+    font-size: 1.6em;
+}
+
+p{
+    color: grey;
+    font-size: 1.3em;
+}
+
+.video{
+    position: relative;
+    bottom: 140px;
+    left: 600px;
+    height: 350px;
+    width: 500px;
+}
+
+.img{
+    position: relative;
+    bottom: 300px;
+    left: 70px;
+}
+
+.amazon{
+    position: relative;
+    bottom: 380px ;
+    left: 700px;
+}
+
+.btn{
+    width: 1900px;
+    height: 130px;
+    background-color: #F36523;
+    position: relative;
+    bottom: 280px;
+}
+
+button{
+    position: relative;
+    top:35px ;
+    left: 700px;
+    height: 70px;
+    width: 300px;
+    background-color: #F36523;
+    color: white;
+    border-radius: 10px;
+    font-size: 1.3em;
+    border: 2.3px solid white;
+}
+
+.photo{
+    position: relative;
+    bottom: 279.56px;
+    width: 100px;
+    height: 100px;
+}
+
+.comentar{
+    position: relative;
+    top: 50px;
+}
+
+.btn2{
+    width: 1900px;
+    height: 130px;
+    background-color: #652D90;
+    position: relative;
+    bottom: 280px;
+    position: relative;
+    top: 47px;
+}
+
+button{
+    position: relative;
+    top:35px ;
+    left: 700px;
+    height: 70px;
+    width: 300px;
+    background-color: #652D90;;
+    color: white;
+    border-radius: 10px;
+    font-size: 1.3em;
+    border: 2.3px solid white;
+}
+
+
+
+.images{
+    position: relative;
+    left: 500px;
+    top: 75px;
+}
+
+.imgfooter{
+    position: relative;
+    top: 105px;
+    width: 1900px;
+}
+
+.btn2{
+    width: 1900px;
+    height: 130px;
+    background-color: #F36523;
+    position: relative;
+    bottom: 280px;
+}
+
